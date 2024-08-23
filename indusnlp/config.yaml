@@ -1,0 +1,22 @@
+# Configuration for IndusNLPToolkit
+
+# Paths
+data_directory: "./data"
+stopwords_directory: "./data/stopwords"
+trained_models_directory: "./data/trained_models"
+
+# Tokenization settings
+tokenization:
+  hindi_punctuations_file: "hindi_punctuations.json"
+
+# Cleaning settings
+cleaning:
+  sundry_stops_file: "sundry_stops.json"
+  hindi_numbers_file: "hindi_numbers.json"
+  suffixes_file: "suffixes.json"
+  dialects_file: "dialects.json"
+
+# Tagging settings
+tagging:
+  training_percentage: 0.9
+  tagged_set: "hindi.pos"

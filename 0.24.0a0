@@ -1,0 +1,6 @@
+Collecting cython
+  Obtaining dependency information for cython from https://files.pythonhosted.org/packages/1b/4e/2e676c55da4274ca15342fab67b3b48aa8ba17447495cdaadc67fd37a16c/Cython-3.0.11-cp39-cp39-win_amd64.whl.metadata
+  Using cached Cython-3.0.11-cp39-cp39-win_amd64.whl.metadata (3.2 kB)
+Using cached Cython-3.0.11-cp39-cp39-win_amd64.whl (2.8 MB)
+Installing collected packages: cython
+Successfully installed cython-3.0.11
